@@ -1,0 +1,19 @@
+#password{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+#username{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: rgb(106, 118, 185);
+    background-image: url(bg2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*{
+    margin: 10px;
+}
